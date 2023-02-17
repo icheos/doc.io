@@ -2,7 +2,7 @@
 
 ![logo](/img/1.jpeg)
 
-# 学思录 <small></small>
+# 收藏箱 <small></small>
 
 >记录所知所得
 
