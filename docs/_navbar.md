@@ -1,6 +1,6 @@
 * [主页](/README.md)
 
-	* [计算机](#计算机)
+	* [计算机](./computerscience/README.md#计算机)
 	* [哲学](./philosophy/xz/README.md#哲学)
 	* [感悟](#个人感悟)
 	
